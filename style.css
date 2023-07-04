@@ -1,0 +1,18 @@
+body {
+    margin-left: 2em;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1.5em;
+}
+
+#name, #email {
+    padding-right: 10em;
+    padding-bottom: 1em;
+}
+
+#form-message {
+    margin-bottom: 2em;
+}
